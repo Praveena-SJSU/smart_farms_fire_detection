@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # H5 extensions
-backend/app/fire_detection/models/*.h5
+backend/app/models/*.h5
 
 # DSStore extensions
 backend/.DS_Store
